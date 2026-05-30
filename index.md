@@ -19,7 +19,7 @@ hi, we're somewhat decent software, or SDS for short. we make somewhat decent so
 - 12 Hours in East Birmingham, a nostalgic 2D game about England's second city.
 - probably more
 
-## who runs this hellhole
+## who runs this place
 currently 
 - eryn, the head decent person
 - that's it for now. i promise we'll have more people soon <3
